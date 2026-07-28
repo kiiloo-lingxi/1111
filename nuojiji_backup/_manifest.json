@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1785251332120,
-  "appVersion": "6.8.7 (2026.06.13)",
+  "timestamp": 1785252847956,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "worldBooks",
@@ -27,7 +27,6 @@
     "multiSceneSummaries",
     "multiSceneSessionSummaries",
     "customNoises",
-    "customBgm",
     "flashMoments",
     "groupSettings",
     "userLinks",
@@ -63,13 +62,6 @@
     "homelandState",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 2
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "kaomojis": true
-  },
+  "source": "auto",
   "inProgress": true
 }
