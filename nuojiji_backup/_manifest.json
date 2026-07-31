@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785482990899,
+  "timestamp": 1785483475870,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -62,10 +62,6 @@
     "homelandState",
     "_migration"
   ],
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true
-  },
   "source": "auto",
   "inProgress": true
 }
