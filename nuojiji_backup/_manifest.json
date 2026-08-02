@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1785644830697,
+  "timestamp": 1785644842272,
   "appVersion": "6.8.7 (2026.06.13)",
   "tables": [
     "characters",
@@ -64,7 +64,8 @@
     "_migration"
   ],
   "completedTables": {
-    "characters": true
+    "characters": true,
+    "worldBooks": true
   },
   "inProgress": true
 }
